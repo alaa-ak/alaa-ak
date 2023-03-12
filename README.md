@@ -11,7 +11,7 @@
 <br/>
 <h3> <img src="https://user-images.githubusercontent.com/122216335/224576314-db6e2d93-75d5-4bc9-93ae-8ccb80f0b212.png"> Dart </h3>
 <h3>  <img src="https://user-images.githubusercontent.com/122216335/224575990-4ec37b3f-e484-4cb1-95f6-a32562ebc614.png" > Flutter  </h3> 
-<h3>  <img src="https://user-images.githubusercontent.com/122216335/224576460-f30c550f-d440-4dc1-8c6d-6ef81a163320.png" > C++  </h3>  
+<h3>  <img src="https://user-images.githubusercontent.com/122216335/224576460-f30c550f-d440-4dc1-8c6d-6ef81a163320.png" width="50" > C++  </h3>  
 
 
 <h2>Tools 🛠️ </h2>
