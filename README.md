@@ -9,8 +9,10 @@
 <br/>
 <h2> Programming Languages 🌐 </h2>
 <br/>
-<img src="https://user-images.githubusercontent.com/122216335/224574237-9c4e6435-3424-4025-9f1d-7c02b77e2969.svg" width="100">         <img src="https://user-images.githubusercontent.com/122216335/224574255-abd9c3d2-c0dc-420a-adcf-db99f8007cc9.svg" width="100"> 
-<br/>
+<img src="https://user-images.githubusercontent.com/122216335/224574237-9c4e6435-3424-4025-9f1d-7c02b77e2969.svg" width="100">      
+<img src="https://user-images.githubusercontent.com/122216335/224575990-4ec37b3f-e484-4cb1-95f6-a32562ebc614.png" > 
+
+
 
 <h2>Tools 🛠️ </h2>
 <br/>
