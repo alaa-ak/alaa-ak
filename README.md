@@ -9,7 +9,7 @@
 <br/>
 <h2> Programming Languages 🌐 </h2>
 <br/>
-<a href="link address"><img src="image destination"></a>
+
 <h3> <a href = "https://dart.dev/">  <img src="https://user-images.githubusercontent.com/122216335/224576314-db6e2d93-75d5-4bc9-93ae-8ccb80f0b212.png"> </h3> </a>
 <h3> <a href = "https://flutter.dev/"> <img src="https://user-images.githubusercontent.com/122216335/224575990-4ec37b3f-e484-4cb1-95f6-a32562ebc614.png" >   </h3> 
 
